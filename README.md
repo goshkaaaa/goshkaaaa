@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,discord,express,html,css,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,discord,html,css,git,github&theme=dark" />
 
 ---
 
