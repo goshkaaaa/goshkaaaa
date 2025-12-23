@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,100:000000&height=220&section=header&text=JavaScript%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=800&lines=Clean+Code;Node.js+Developer;Discord+%26+Telegram+Bots;Async+%7C+API+%7C+Automation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=850&lines=Clean+Code;Node.js+Developer;Discord+%26+Telegram+Bots;Async+%7C+API+%7C+Automation" />
 
 ---
 
@@ -22,12 +22,9 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/goshkaaaa/goshkaaaa/output/github-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=goshkaaaa&theme=tokyo-night&hide_border=true" />
 
 ---
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goshkaaaa&theme=tokyo-night&hide_border=true" />
 
 <img src="https://komarev.com/ghpvc/?username=goshkaaaa&color=F7DF1E&style=flat-square" />
 
