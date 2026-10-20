@@ -2,9 +2,30 @@
 
 I build things with JavaScript: browser tools, web interfaces, bots, and scripts that take a repetitive job off your hands.
 
-Currently working with **React, Next.js, Vue, and Node.js**. I like projects with a clear purpose, a considered interface, and a small enough scope to finish properly.
+Currently working with **React, Next.js, Svelte, Vue, and Node.js**. I like projects with a clear purpose, a considered interface, and a small enough scope to finish properly.
 
 ### Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/goshkaaaa/patchwork"><img src="https://raw.githubusercontent.com/goshkaaaa/patchwork/main/docs/cover.png" alt="Patchwork JSON comparison workbench" /></a>
+<h3>Patchwork</h3>
+<p>Compare API responses or configs by structure. Review changed fields, filter JSON paths, and export a usable JSON Patch.</p>
+<p><b>Next.js · React · Web Workers · JavaScript</b></p>
+<a href="https://goshkaaaa.github.io/patchwork/">Try it</a> · <a href="https://github.com/goshkaaaa/patchwork">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/goshkaaaa/papertrail"><img src="https://raw.githubusercontent.com/goshkaaaa/papertrail/main/docs/cover.png" alt="Papertrail Markdown writing desk" /></a>
+<h3>Papertrail</h3>
+<p>A writing desk for handovers, release notes, and decision records. Local drafts, a live outline, and standalone HTML exports.</p>
+<p><b>Svelte 5 · Vite · Markdown · JavaScript</b></p>
+<a href="https://goshkaaaa.github.io/papertrail/">Try it</a> · <a href="https://github.com/goshkaaaa/papertrail">Code</a>
+</td>
+</tr>
+</table>
+
+### More projects
 
 <table>
 <tr>
@@ -40,7 +61,7 @@ Currently working with **React, Next.js, Vue, and Node.js**. I like projects wit
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,nodejs,html,css,git&amp;theme=dark" alt="JavaScript, React, Next.js, Vue, Node.js, HTML, CSS, Git" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,svelte,vue,nodejs,html,css,git&amp;theme=dark" alt="JavaScript, React, Next.js, Svelte, Vue, Node.js, HTML, CSS, Git" />
 
 ### A few real numbers
 
