@@ -44,6 +44,6 @@ Currently working with **React, Next.js, Vue, and Node.js**. I like projects wit
 
 ### A few real numbers
 
-<img src="assets/metrics.svg" width="100%" alt="Public repository counts, total stars, and source language distribution. Updated daily with GitHub Actions." />
+<img src="assets/metrics.svg" width="100%" alt="Public repository counts, total stars, and source language distribution. Generated from the GitHub API; update workflow included." />
 
 The statistics above come from the GitHub API and are rendered in this repository. [Data](assets/metrics.json) · [Update workflow](.github/workflows/metrics.yml)
