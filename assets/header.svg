@@ -1,0 +1,81 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="330"
+  viewBox="0 0 1200 330"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">clifyyxd — JavaScript developer</title>
+  <desc id="desc">
+    Interfaces, small tools, and useful automation. Selected work by goshkaaaa.
+  </desc>
+  <rect width="1200" height="330" rx="16" fill="#142130" />
+  <path d="M840 0v330M0 260h1200" stroke="#334254" />
+  <g fill="none" stroke="#6e91bb" stroke-width="2">
+    <rect
+      x="908"
+      y="64"
+      width="174"
+      height="174"
+      rx="22"
+      transform="rotate(14 995 151)"
+    />
+    <rect
+      x="924"
+      y="80"
+      width="142"
+      height="142"
+      rx="16"
+      transform="rotate(-9 995 151)"
+    />
+  </g>
+  <path
+    d="m972 128-25 25 25 25m46-50 25 25-25 25m-19-66-13 82"
+    stroke="#f8ce6a"
+    fill="none"
+    stroke-width="6"
+    stroke-linecap="round"
+  />
+  <text
+    x="58"
+    y="58"
+    font-family="monospace"
+    font-size="13"
+    letter-spacing="3"
+    fill="#f8ce6a"
+  >
+    GOSHkaaaa / SELECTED WORK
+  </text>
+  <text
+    x="54"
+    y="150"
+    font-family="Verdana,sans-serif"
+    font-size="76"
+    font-weight="bold"
+    letter-spacing="-5"
+    fill="#f4f6fa"
+  >
+    clifyyxd.
+  </text>
+  <text
+    x="59"
+    y="202"
+    font-family="Verdana,sans-serif"
+    font-size="21"
+    fill="#a9bdd2"
+  >
+    Interfaces. Small tools. Useful automation.
+  </text>
+  <text
+    x="59"
+    y="302"
+    font-family="monospace"
+    font-size="13"
+    letter-spacing="1"
+    fill="#a9bdd2"
+  >
+    JAVASCRIPT / REACT / NEXT.JS / VUE / NODE.JS
+  </text>
+  <circle cx="1118" cy="295" r="6" fill="#f8ce6a" />
+</svg>

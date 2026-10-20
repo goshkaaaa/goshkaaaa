@@ -1,31 +1,49 @@
-<div align="center">
+<img src="assets/header.svg" width="100%" alt="clifyyxd — JavaScript developer. Interfaces, small tools, and useful automation." />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7DF1E,100:000000&height=220&section=header&text=JavaScript%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+I build things with JavaScript: browser tools, web interfaces, bots, and scripts that take a repetitive job off your hands.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=500&color=F7DF1E&center=true&vCenter=true&width=850&lines=Clean+Code;Node.js+Developer;Discord+%26+Telegram+Bots;Async+%7C+API+%7C+Automation" />
+Currently working with **React, Next.js, Vue, and Node.js**. I like projects with a clear purpose, a considered interface, and a small enough scope to finish properly.
 
----
+### Selected projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=goshkaaaa&show_icons=true&theme=tokyonight&hide_border=true&icon_color=F7DF1E&title_color=F7DF1E" />
+<table>
+<tr>
+<td width="33%" valign="top">
+<a href="https://github.com/goshkaaaa/wayfarer"><img src="https://raw.githubusercontent.com/goshkaaaa/wayfarer/main/docs/desktop.png" alt="Wayfarer — illustrated trip planner" /></a>
+<h3>Wayfarer</h3>
+<p>A day-by-day trip planner with a budget, portable backups, and Markdown export.</p>
+<p><b>Next.js · React · JavaScript</b></p>
+<a href="https://goshkaaaa.github.io/wayfarer/">Try it</a> · <a href="https://github.com/goshkaaaa/wayfarer">Code</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/goshkaaaa/pigment"><img src="https://raw.githubusercontent.com/goshkaaaa/pigment/main/docs/desktop.png" alt="Pigment — five-color palette workbench" /></a>
+<h3>Pigment</h3>
+<p>Find a palette, lock your favorite colors, check contrast, and export usable CSS.</p>
+<p><b>Vue 3 · Vite · JavaScript</b></p>
+<a href="https://goshkaaaa.github.io/pigment/">Try it</a> · <a href="https://github.com/goshkaaaa/pigment">Code</a>
+</td>
+<td width="33%" valign="top">
+<a href="https://github.com/goshkaaaa/interval"><img src="https://raw.githubusercontent.com/goshkaaaa/interval/main/docs/desktop.png" alt="Interval — focus timer and task list" /></a>
+<h3>Interval</h3>
+<p>A focus timer that handles background time, with tasks and a seven-day activity view.</p>
+<p><b>React · Vite · JavaScript</b></p>
+<a href="https://goshkaaaa.github.io/interval/">Try it</a> · <a href="https://github.com/goshkaaaa/interval">Code</a>
+</td>
+</tr>
+</table>
 
-<img src="https://streak-stats.demolab.com?user=goshkaaaa&theme=tokyonight&hide_border=true&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E" />
+### Also on my workbench
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goshkaaaa&layout=compact&theme=tokyonight&hide_border=true&title_color=F7DF1E" />
+- [koisu-downloader](https://github.com/goshkaaaa/koisu-downloader)
+- [Backup Spotify playlists](https://github.com/goshkaaaa/Backup-Spotify-playlists)
+- [Subscription tracker](https://github.com/goshkaaaa/Subscription-tracker)
 
----
+### Stack
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,discord,html,css,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,vue,nodejs,html,css,git&amp;theme=dark" alt="JavaScript, React, Next.js, Vue, Node.js, HTML, CSS, Git" />
 
----
+### A few real numbers
 
-<img src="https://github-profile-trophy.vercel.app/?username=goshkaaaa&theme=onedark&no-frame=true&row=1&margin-w=15" />
+<img src="assets/metrics.svg" width="100%" alt="Public repository counts, total stars, and source language distribution. Updated daily with GitHub Actions." />
 
----
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goshkaaaa&theme=tokyo-night&hide_border=true" />
-
----
-
-<img src="https://komarev.com/ghpvc/?username=goshkaaaa&color=F7DF1E&style=flat-square" />
-
-</div>
+The statistics above come from the GitHub API and are rendered in this repository. [Data](assets/metrics.json) · [Update workflow](.github/workflows/metrics.yml)
