@@ -2,9 +2,22 @@
 
 I build things with JavaScript: browser tools, web interfaces, bots, and scripts that take a repetitive job off your hands.
 
-Currently working with **React, Next.js, Svelte, Vue, and Node.js**. I like projects with a clear purpose, a considered interface, and a small enough scope to finish properly.
+Currently working with **React, Next.js, Svelte, Vue, Node.js, and SQLite**. I like projects with a clear purpose, a considered interface, and a small enough scope to finish properly.
 
 ### Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/goshkaaaa/cleandesk"><img src="https://raw.githubusercontent.com/goshkaaaa/cleandesk/main/docs/cover.png" alt="CleanDesk workspace" /></a><h3>CleanDesk</h3><p>A cleaning-team workspace with manager and cleaner accounts, a property calendar, private photo reports, and review.</p><p><b>Next.js · SQLite · React · Node.js</b></p>Self-hosted server · <a href="https://github.com/goshkaaaa/cleandesk">Code & setup</a></td>
+<td width="50%" valign="top"><a href="https://github.com/goshkaaaa/keynest"><img src="https://raw.githubusercontent.com/goshkaaaa/keynest/main/docs/cover.png" alt="Keynest workspace" /></a><h3>Keynest</h3><p>A physical key register: who has a set, when it is due, and a complete handover/return history.</p><p><b>Vue 3 · IndexedDB · JavaScript</b></p><a href="https://goshkaaaa.github.io/keynest/">Open application</a> · <a href="https://github.com/goshkaaaa/keynest">Code</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/goshkaaaa/stocktake"><img src="https://raw.githubusercontent.com/goshkaaaa/stocktake/main/docs/cover.png" alt="Stocktake workspace" /></a><h3>Stocktake</h3><p>Consumables by location, stock-in/out movements, negative-balance checks, and a printable restock list.</p><p><b>React · IndexedDB · JavaScript</b></p><a href="https://goshkaaaa.github.io/stocktake/">Open application</a> · <a href="https://github.com/goshkaaaa/stocktake">Code</a></td>
+<td width="50%" valign="top"><a href="https://github.com/goshkaaaa/meterlog"><img src="https://raw.githubusercontent.com/goshkaaaa/meterlog/main/docs/cover.png" alt="Meterlog workspace" /></a><h3>Meterlog</h3><p>Meter readings with photo evidence, exact decimal usage, replacement baselines, and CSV exports.</p><p><b>Svelte 5 · IndexedDB · JavaScript</b></p><a href="https://goshkaaaa.github.io/meterlog/">Open application</a> · <a href="https://github.com/goshkaaaa/meterlog">Code</a></td>
+</tr>
+</table>
+
+### Developer tools
 
 <table>
 <tr>
@@ -61,7 +74,7 @@ Currently working with **React, Next.js, Svelte, Vue, and Node.js**. I like proj
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,svelte,vue,nodejs,html,css,git&amp;theme=dark" alt="JavaScript, React, Next.js, Svelte, Vue, Node.js, HTML, CSS, Git" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,svelte,vue,nodejs,sqlite,html,css,git&amp;theme=dark" alt="JavaScript, React, Next.js, Svelte, Vue, Node.js, SQLite, HTML, CSS, Git" />
 
 ### A few real numbers
 

@@ -1,11 +1,11 @@
 {
   "updated": "2026-10-20",
-  "repositories": 11,
+  "repositories": 15,
   "stars": 1,
   "languages": {
+    "JavaScript": 187033,
     "TypeScript": 151289,
-    "JavaScript": 77430,
-    "Python": 29348,
-    "CSS": 9997
+    "CSS": 86614,
+    "Python": 29348
   }
 }
